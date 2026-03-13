@@ -42,7 +42,7 @@ SliverAppBar creates a dynamic, collapsible app bar that integrates seamlessly w
 ### Steps to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/sliver-appbar-demo.git
+   git clone https://github.com/JmugishaKa/sliver-appbar-demo.git
    cd sliver-appbar-demo
    ```
 
